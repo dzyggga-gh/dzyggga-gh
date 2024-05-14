@@ -23,11 +23,30 @@ In addition to my technical skills, I have extensive experience in management, i
 
 ## Projects 💼
 
+### Alpenite France FR
+
+ *Website for digital products and services for enabling customer success.*
+
+*SFCC Developer -* (01.2024 - current)
+
+Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp, Squirrelly JS, UML
+
+<aside>
+👉 **Dior**
+
+- Front-End Leadership
+- Development
+- Documentation
+- Workshops
+- Code Reviews
+- Resolved Blockers and Critical Issues
+</aside>
+
 ### Alpenite United Kingdom 🇬🇧
 
  *Website for digital products and services for enabling customer success.*
 
-*SFCC Developer -* (03.2023 - current)
+*SFCC Developer -* (03.2023 - 12.2023)
 
 Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp, Squirrelly JS, UML
 
