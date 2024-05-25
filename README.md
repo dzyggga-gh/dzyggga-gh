@@ -5,7 +5,7 @@
 ## Contacts 📞 📧 🗨️
 
 - **Phone:** +38 (063) 27 - 70 - 006
-- **Email:** [dzyggga@gmail.com](mailto:dzyggga@gmail.com)
+- **Email:** [l.dzyhanskyi@outlook.com](mailto:l.dzyhanskyi@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/dzyggga/)
 
 ## **About me** 🚀
