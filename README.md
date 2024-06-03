@@ -27,7 +27,7 @@ In addition to my technical skills, I have extensive experience in management, i
 
  *Website for digital products and services for enabling customer success.*
 
-*Front-End lead, SFCC Developer -* (01.2024 - current)
+*Front-End lead, SFCC Developer -* (01.2024 - 06.2024)
 
 Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp, Squirrelly JS, UML
 
