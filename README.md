@@ -55,6 +55,8 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 
 - VTO implementation
 - Refactoring client side validation
+- Refactoring checkout
+- Create Front-End development system
 - Create custom text area with custom limitation
 - Fixed blockers, and critical issues
 </aside>
@@ -96,7 +98,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Vue JS
 - Development of Page Designer components.
 - Writing custom scripts.
 
-**Lui Jo, Colmar** 
+**Lui Jo, Colmar**
 
 - Creating new pages and components.
 - Development and improvement of MJML-based e-mails.
@@ -133,7 +135,7 @@ Skills: SFCC Page Designer, SFRA, Node JS, SCSS, JS, jQuery, Bootstrap, BEM
 
 *An international network of differently-abled companies united for sustainable development.*
 
-*Developer -* **(**03.2021 - 12.2021**)** 
+*Developer -* **(**03.2021 - 12.2021**)**
 
 Skills: Angular, Akita, Azure, BEM
 
