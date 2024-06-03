@@ -31,16 +31,16 @@ In addition to my technical skills, I have extensive experience in management, i
 
 Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp, Squirrelly JS, UML
 
-<aside>
-👉 **Dior**
+**Dior**
 
 - Front-End Leadership
+- Refactoring checkout
+- Create Front-End development ecosystem
 - Development
 - Documentation
 - Workshops
 - Code Reviews
 - Resolved Blockers and Critical Issues
-</aside>
 
 ### Alpenite United Kingdom 🇬🇧
 
@@ -50,16 +50,12 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 
 Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp, Squirrelly JS, UML
 
-<aside>
-👉 **Dior**
+**Dior**
 
 - VTO implementation
 - Refactoring client side validation
-- Refactoring checkout
-- Create Front-End development system
 - Create custom text area with custom limitation
 - Fixed blockers, and critical issues
-</aside>
 
 ### Alpenite Italy 🇮🇹
 
@@ -69,8 +65,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 
 Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Vue JS
 
-<aside>
-👉 **Golden Goose**
+**Golden Goose**
 
 - Implement DIS based on Akamai service
 - Implement new steps for gift finder vue js [app](https://www.goldengoose.com/us/en/gift-finder/gift-finder.html). I had the high challenge with custom and dynamically updated roulette.
