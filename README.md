@@ -34,6 +34,9 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 **Dior**
 
 - Front-End Leadership
+- Accessibility AA support
+- RTL support
+- Performance improvement
 - Rebuild Webpack configuration
 - Increase the Node.js version from v12.
 - Refactoring checkout
