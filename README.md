@@ -12,9 +12,9 @@
 
 *37 years old* [Vinnytsia College - (2003 - 2005)]
 
-I specialize in designing high-quality, innovative, and efficient Ecommerce solutions using Salesforce Commerce Cloud. By leveraging my expertise in the latest best practices, patterns, and algorithms, I optimize development processes and streamline coding for my team.
+I specialize in designing high-quality, innovative, and efficient E-commerce solutions using Salesforce Commerce Cloud. By leveraging my expertise in the latest best practices, patterns, and algorithms, I optimize development processes and streamline coding for my team.
 
-In addition to my technical skills, I have extensive experience in management, including team leadership, task analysis, development planning, issue resolution, interface design, code review, and documentation maintenance. With my well-rounded skill set, I am equipped to lead successful Ecommerce projects from conception to deployment.
+In addition to my technical skills, I have extensive experience in management, including team leadership, task analysis, development planning, issue resolution, interface design, code review, and documentation maintenance. With my well-rounded skill set, I am equipped to lead successful e-commerce projects from conception to deployment.
 
 ## Languages 🌐
 
@@ -25,7 +25,7 @@ In addition to my technical skills, I have extensive experience in management, i
 
 ### Alpenite France FR
 
- *Website for digital products and services for enabling customer success.*
+ *Website for digital products and services to enable customer success.*
 
 *Front-End lead, SFCC Developer -* (01.2024 - 06.2024)
 
@@ -34,6 +34,8 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 **Dior**
 
 - Front-End Leadership
+- Rebuild Webpack configuration
+- Increase the Node.js version from v12.
 - Refactoring checkout
 - Create Front-End development ecosystem
 - Development
@@ -44,7 +46,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 
 ### Alpenite United Kingdom 🇬🇧
 
- *Website for digital products and services for enabling customer success.*
+ *Website for digital products and services to enable customer success.*
 
 *SFCC Developer -* (03.2023 - 12.2023)
 
@@ -53,13 +55,13 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Perf Corp
 **Dior**
 
 - VTO implementation
-- Refactoring client side validation
-- Create custom text area with custom limitation
-- Fixed blockers, and critical issues
+- Refactoring client-side validation
+- Create a custom text area with custom limitation
+- Fixed blockers and critical issues
 
 ### Alpenite Italy 🇮🇹
 
-*Website for digital products and services for enabling customer success.*
+*Website for digital products and services to enable customer success.*
 
 *SFCC Developer - (*09.2021 - current*)*
 
@@ -68,7 +70,7 @@ Skills: SFRA Page Designer, Node JS, SCSS, JS, jQuery, Bootstrap, BEM, Vue JS
 **Golden Goose**
 
 - Implement DIS based on Akamai service
-- Implement new steps for gift finder vue js [app](https://www.goldengoose.com/us/en/gift-finder/gift-finder.html). I had the high challenge with custom and dynamically updated roulette.
+- Implement new steps for gift finder vue js [app](https://www.goldengoose.com/us/en/gift-finder/gift-finder.html). I had a high challenge with custom and dynamically updated roulette.
 
 **Project 6**
 
