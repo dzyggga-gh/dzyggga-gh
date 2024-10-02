@@ -4,8 +4,8 @@
 
 ## Contacts 📞 📧 🗨️
 
-- **Phone:** +38 (063) 27 - 70 - 006
-- **Email:** [l.dzyhanskyi@outlook.com](mailto:l.dzyhanskyi@outlook.com)
+- **Phone:** +38 (066) 27 - 70 - 006
+- **Email:** [dzyggga@gmail.com](mailto:dzyggga@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/dzyggga/)
 
 ## **About me** 🚀
