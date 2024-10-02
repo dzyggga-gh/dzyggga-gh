@@ -12,6 +12,8 @@
 
 *38 years old* [Vinnytsia College - (2003 - 2005)]
 
+No matter what technologies you are using, the goal is to create a reusable, clear, high-performance project that can be easily supported by a small team.
+
 I specialize in designing high-quality, innovative, and efficient E-commerce solutions using Salesforce Commerce Cloud. By leveraging my expertise in the latest best practices, patterns, and algorithms, I optimize development processes and streamline coding for my team.
 
 In addition to my technical skills, I have extensive experience in management, including team leadership, task analysis, development planning, issue resolution, interface design, code review, and documentation maintenance. With my well-rounded skill set, I am equipped to lead successful e-commerce projects from conception to deployment.
