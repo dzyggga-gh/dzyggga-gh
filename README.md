@@ -12,7 +12,7 @@
 
 *38 years old* [Vinnytsia College - (2003 - 2005)]
 
-No matter what technologies you are using, the goal is to create a reusable, clear, high-performance project that can be easily supported by a small team.
+**No matter what technologies you are using, the goal is to create a reusable, straightforward, high-performance project that can be easily scaled and supported by a small team.**
 
 I specialize in designing high-quality, innovative, and efficient E-commerce solutions using Salesforce Commerce Cloud. By leveraging my expertise in the latest best practices, patterns, and algorithms, I optimize development processes and streamline coding for my team.
 
