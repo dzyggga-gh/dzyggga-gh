@@ -10,7 +10,7 @@
 
 ## **About me** 🚀
 
-*37 years old* [Vinnytsia College - (2003 - 2005)]
+*38 years old* [Vinnytsia College - (2003 - 2005)]
 
 I specialize in designing high-quality, innovative, and efficient E-commerce solutions using Salesforce Commerce Cloud. By leveraging my expertise in the latest best practices, patterns, and algorithms, I optimize development processes and streamline coding for my team.
 
